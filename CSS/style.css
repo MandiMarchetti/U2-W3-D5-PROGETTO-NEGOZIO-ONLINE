@@ -1,0 +1,12 @@
+ /* Estilos CSS */
+body{
+    background-color: #e9ceaa;
+ }
+
+.logo{
+    width: 8rem;
+    border-radius: 50%;
+    align-items: center;
+}
+
+
